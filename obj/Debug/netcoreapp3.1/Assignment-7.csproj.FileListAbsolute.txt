@@ -1,0 +1,11 @@
+/home/james/Dev/ITDEV154/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7
+/home/james/Dev/ITDEV154/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.deps.json
+/home/james/Dev/ITDEV154/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.runtimeconfig.json
+/home/james/Dev/ITDEV154/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.runtimeconfig.dev.json
+/home/james/Dev/ITDEV154/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.dll
+/home/james/Dev/ITDEV154/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.pdb
+/home/james/Dev/ITDEV154/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.csprojAssemblyReference.cache
+/home/james/Dev/ITDEV154/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.AssemblyInfoInputs.cache
+/home/james/Dev/ITDEV154/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.AssemblyInfo.cs
+/home/james/Dev/ITDEV154/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.dll
+/home/james/Dev/ITDEV154/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.pdb
